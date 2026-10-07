@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Javier\Desktop\ProyectoGit\repositorioProyectoPrimeroDAM\.metadata\.plugins\org.eclipse.jdt.core
+3164264166.index
+1865797976.index
+1325470395.index
